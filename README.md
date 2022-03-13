@@ -1,2 +1,2 @@
 # Segmentation_Challenge
-This repository contains the code used in the hackathon.
+This repository contains the code used in the hackathon by **Anomaly Detectors**
